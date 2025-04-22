@@ -7,13 +7,18 @@ Este é  um projeto destinado a pessoas que desejam aumentar o foco em suas ativ
 - **Música ambiente**: escolha entre diferentes sons para criar um ambiente propício ao foco (selecione na sua máquina).
 - **Design responsivo**: a interface se adapta a diferentes tamanhos de tela para uma melhor experiência do usuário.
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 
 - HTML
 - CSS
 - JavaScript
 
-## Como Executar o Projeto
+## Ideal para:
+- Estudantes;
+- Profissionais home office;
+- Pessoas que precisam gerenciar o tempo.
+
+## Como executar o projeto
 
 1. Clone este repositório:
    ```bash
